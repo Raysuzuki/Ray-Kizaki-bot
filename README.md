@@ -4,8 +4,8 @@
 
 <p align="center"> 
 
-- Hy Im Ray kun
-- I am 23 years old
+- Hy Im Sasha Chan
+- I am 22 years old
 
 
 ------ 
