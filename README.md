@@ -4,7 +4,7 @@
 
 <p align="center"> 
 
-- Hy Im Sasha Chan
+- Hy I'm Sasha Chan
 - I am 22 years old
 
 
